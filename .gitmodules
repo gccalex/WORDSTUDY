@@ -1,3 +1,3 @@
 [submodule "themes/smol"] 
   path = themes/smol
-  url = git://colorchestra/smol/
+  url = /colorchestra/smol/
